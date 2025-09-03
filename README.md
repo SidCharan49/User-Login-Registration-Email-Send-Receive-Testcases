@@ -19,8 +19,7 @@ It focuses on verifying authentication, security, and usability.
 - User Login:
   - With username & password
   - With OTP  
-  - Social login (if applicable)  
-
+  
 - Password Management:
   - Forgot password flow  
   - Password reset via email/SMS  
