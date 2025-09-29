@@ -1,16 +1,11 @@
-# 🔑 Registration & Login Test Cases
+## User Login/Registration/Email Send/Receive Test Cases
 
 This module contains detailed test cases for **user account management** workflows.  
 It focuses on verifying authentication, security, and usability.
 
 ---
 
-## 📂 File Included
-- **test_case_registration_login.xlsx**
-
----
-
-## ✅ Covered Scenarios
+## Covered Scenarios
 - User Registration:
   - With email
   - With phone number
